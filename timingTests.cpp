@@ -1,3 +1,9 @@
+/* Copyright (C) Jacob Cohen - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Jacob Cohen <jcohen30@uic.edu> or <jacob@jacobcohen.info>
+ */
+
 #include <algorithm>
 #include <fstream>
 #include <map>
