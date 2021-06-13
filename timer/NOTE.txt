@@ -1,0 +1,3 @@
+I (Jacob) removed the binary because gmail is annoying. The source works fine, however.
+
+It works better than std::chrono on my windows machine.
